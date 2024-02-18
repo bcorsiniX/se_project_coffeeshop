@@ -2,6 +2,8 @@
   min-height: 720px;
   max-height: 800px;
   height: 100vh;
+  position: relative;
+  z-index: 1;
   display: flex;
   flex-direction: column;
   position: relative;
@@ -18,6 +20,7 @@
   position: absolute;
   top: 124px;
   right: 5px;
+  z-index: -1;
 }
 
 .header__title {
@@ -46,6 +49,8 @@
   font-family: "Noto serif", "times new roman", serif;
   font-size: 20px;
   line-height: 30px;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .header__footer {
