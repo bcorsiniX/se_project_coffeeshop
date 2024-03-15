@@ -24,8 +24,8 @@
 
 .header__title {
   margin-left: 80px;
-  max-width: 729px;
-  margin-top: 183px;
+  max-width: 601px;
+  margin-top: 128px;
   margin-bottom: 28px;
   font-family: Inter, Arial, sans-serif;
   font-weight: 500;
@@ -45,7 +45,7 @@
 
 .header__description {
   margin-left: 80px;
-  max-width: 683px;
+  max-width: 532px;
   font-family: "Noto serif", "times new roman", serif;
   font-size: 20px;
   line-height: 30px;
